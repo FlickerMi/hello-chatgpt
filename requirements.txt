@@ -1,0 +1,7 @@
+pvporcupine
+pyaudio
+SpeechRecognition
+pvcobra
+openai
+azure-cognitiveservices-speech
+diskcache
